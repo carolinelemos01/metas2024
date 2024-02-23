@@ -1,0 +1,15 @@
+.titulo{
+    text-align: center;
+    background-color: #df43ca;
+    color: #ffffff;
+    font-size: 70px;
+}
+body{
+    background-color: rgb(157, 64, 160);
+}
+.tabela{
+    font-size: 20px;
+    color: rgba(12, 12, 12, 0);
+    font-family: rgb(235, 4, 81) Ops One;
+}
+tem menu de contexto
