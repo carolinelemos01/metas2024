@@ -1,15 +1,16 @@
-.titulo{
-    text-align: center;
-    background-color: #df43ca;
-    color: #ffffff;
-    font-size: 70px;
-}
 body{
-    background-color: rgb(157, 64, 160);
+    background-image: linear-gradient(white, aqua);
+    padding-bottom: 30%;
+
 }
-.tabela{
-    font-size: 20px;
-    color: rgba(12, 12, 12, 0);
-    font-family: rgb(235, 4, 81) Ops One;
+
+div,h1{
+   font-size: 52px;
+
+
 }
-tem menu de contexto
+
+h2{
+    font-size: 49px;
+    
+}
