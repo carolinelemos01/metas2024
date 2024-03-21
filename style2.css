@@ -5,11 +5,11 @@ h1 {
 }
 
 :root {
-    --cor-de-fundo: #000000;
-    --azul: #72d1ccde;
+    --cor-de-fundo: #a342c986;
+    --azul: #ce72d1cb;
     --branco: #FFFFFF;
-    --botao-ativo: #539de2;
-    --botao-inativo: #3a375e80;
+    --botao-ativo: #8e42b9bd;
+    --botao-inativo: #7557ac80;
     --texto-fundo: #3a375e4d;
 }
 
