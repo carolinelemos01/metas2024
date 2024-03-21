@@ -1,16 +1,53 @@
-body{
-    background-image: linear-gradient(white, aqua);
-    padding-bottom: 30%;
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Caveat:wght@400..700&family=Pacifico&family=Rubik+Glitch+Pop&display=swap')
+ :root {
+    --cinza: rgb(185, 126, 126);
+    --vermelha: rgba(236, 183, 132, 0.89);
+    --vermelha-escura: #bd7569;
+    --branca: #fff;
+    --luz: rgb(212, 207, 202);
+  }
+    body{
 
+background: linear-gradient(45deg, #b68383 0%,#d6ba6cab 100%);
+ 
 }
-
-div,h1{
-   font-size: 52px;
-
+h1 {
+font-size: 25px; 
+font-family: Caveat ;
 
 }
 
 h2{
-    font-size: 49px;
-    
+
+font-size: 25px; 
+font-family:Dancing Script;
+
 }
+h3{
+
+    font-size: 25px;
+    font-family: Dancing Script;
+}
+h4{
+
+    font-size: 25px;
+    font-family:Dancing Script;
+}
+h5{
+
+    font-size: 25px;
+    font-family:Dancing Script;
+}
+}
+.img1{
+    width: 30%;
+}
+.img2{
+    width: 25%;
+}
+.img3{
+    width: 25%;
+}
+.img
+
