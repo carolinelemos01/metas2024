@@ -6,7 +6,7 @@ h1 {
 
 :root {
     --cor-de-fundo: #a342c986;
-    --azul: #ce72d1cb;
+    --roxo: #ce72d1cb;
     --branco: #FFFFFF;
     --botao-ativo: #8e42b9bd;
     --botao-inativo: #7557ac80;
@@ -36,7 +36,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--azul);
+    color: var(--roxo);
 }
 
 .botao {
@@ -110,6 +110,6 @@ body {
 
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color: var(--azul);
+    color: var(--roxo);
     text-transform: uppercase;
 }
